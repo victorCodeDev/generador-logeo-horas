@@ -1,0 +1,16 @@
+{
+  "name": "generador_logeo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^9.4.0",
+    "electron-reload": "^1.5.0"
+  }
+}

@@ -1,0 +1,305 @@
+{
+    "clasificacionPorDefecto":{
+        "id": "6"
+    },
+    "tareaPorDefecto":{
+        "id": "19"
+    },
+    "clasificaciones": [
+        {
+            "id": "1",
+            "descripcion": "ANALISIS_DISENO"
+        },
+        {
+            "id": "2",
+            "descripcion": "ELABORACION_DOCUMENTACIONES"
+        },
+        {
+            "id": "3",
+            "descripcion": "PRUEBAS_UNITARIAS"
+        },
+        {
+            "id": "4",
+            "descripcion": "CASOS_PRUEBA"
+        },
+        {
+            "id": "5",
+            "descripcion": "PRUEBAS_E2E"
+        },
+        {
+            "id": "6",
+            "descripcion": "DESARROLLO"
+        },
+        {
+            "id": "7",
+            "descripcion": "GESTION"
+        },
+        {
+            "id": "8",
+            "descripcion": "CAPACITACIÓN"
+        },
+        {
+            "id": "9",
+            "descripcion": "INFRAESTRUCTURA"
+        },
+        {
+            "id": "10",
+            "descripcion": "REUNIÓN"
+        },
+        {
+            "id": "11",
+            "descripcion": "SOPORTE A USUARIOS"
+        },
+        {
+            "id": "12",
+            "descripcion": "PRUEBAS CODE"
+        }
+    ],
+    "tareas": [
+        {
+            "id": "1",
+            "descripcion": "RELEVAMIENTO",
+            "clasificacionId": "1"
+        },
+        {
+            "id": "2",
+            "descripcion": "ENTREVISTAS",
+            "clasificacionId": "1"
+        },
+        {
+            "id": "3",
+            "descripcion": "REUNION",
+            "clasificacionId": "1"
+        },
+        {
+            "id": "4",
+            "descripcion": "ANALISIS",
+            "clasificacionId": "1"
+        },
+        {
+            "id": "5",
+            "descripcion": "PARTICIPACIÓN DE REUNIÓN",
+            "clasificacionId": "1"
+        },
+        {
+            "id": "6",
+            "descripcion": "PLANIFICACION",
+            "clasificacionId": "1"
+        },
+        {
+            "id": "7",
+            "descripcion": "ESPECIFICIACIONES CASO DE USO",
+            "clasificacionId": "1"
+        },
+        {
+            "id": "8",
+            "descripcion": "PROTOTIPO",
+            "clasificacionId": "2"
+        },
+        {
+            "id": "9",
+            "descripcion": "MANUAL DE USUARIO",
+            "clasificacionId": "2"
+        },
+        {
+            "id": "10",
+            "descripcion": "MANUAL TÉCNICO",
+            "clasificacionId": "2"
+        },
+        {
+            "id": "11",
+            "descripcion": "ESPECIFICIACIONES CASO DE PRUEBA",
+            "clasificacionId": "2"
+        },
+        {
+            "id": "12",
+            "descripcion": "ELABORACION DE PRUEBAS",
+            "clasificacionId": "3"
+        },
+        {
+            "id": "13",
+            "descripcion": "CERTIFICACION DE PRUEBAS",
+            "clasificacionId": "3"
+        },
+        {
+            "id": "14",
+            "descripcion": "ELABORACION DE CASOS DE PRUEBAS",
+            "clasificacionId": "4"
+        },
+        {
+            "id": "15",
+            "descripcion": "VERIFICACIÓN DE FUNCIONALIDADES",
+            "clasificacionId": "4"
+        },
+        {
+            "id": "16",
+            "descripcion": "PRUEBAS E2E",
+            "clasificacionId": "5"
+        },
+        {
+            "id": "17",
+            "descripcion": "INTREGRACION DE SISTEMAS",
+            "clasificacionId": "6"
+        },
+        {
+            "id": "18",
+            "descripcion": "INTREGRACION DE CAMBIOS EN EL CONTROL DE VERSIONES",
+            "clasificacionId": "6"
+        },
+        {
+            "id": "19",
+            "descripcion": "CREACIÓN DE FUNCIONALIDADES",
+            "clasificacionId": "6"
+        },
+        {
+            "id": "20",
+            "descripcion": "MODIFICACIÓN DE FUNCIONALIDADES",
+            "clasificacionId": "6"
+        },
+        {
+            "id": "21",
+            "descripcion": "EXPLORACIÓN DE ESTRUCTURA DE PROYECTO",
+            "clasificacionId": "6"
+        },
+        {
+            "id": "22",
+            "descripcion": "CORRECCIÓN DE ERRORES",
+            "clasificacionId": "6"
+        },
+        {
+            "id": "23",
+            "descripcion": "MODIFICACION DE REPORTE",
+            "clasificacionId": "6"
+        },
+        {
+            "id": "24",
+            "descripcion": "CREACION DE REPORTE",
+            "clasificacionId": "6"
+        },
+        {
+            "id": "25",
+            "descripcion": "EXPLORACION E INVESTIGACION",
+            "clasificacionId": "6"
+        },
+        {
+            "id": "26",
+            "descripcion": "CREACION DE CONSULTA SQL",
+            "clasificacionId": "6"
+        },
+        {
+            "id": "27",
+            "descripcion": "MODIFICACION DE CONSULTA SQL",
+            "clasificacionId": "6"
+        },
+        {
+            "id": "28",
+            "descripcion": "ACTUALIZACION DE INSTANCIA DE SERVIDOR",
+            "clasificacionId": "6"
+        },
+        {
+            "id": "29",
+            "descripcion": "SOPORTE EN USO DE HERRAMIENTAS",
+            "clasificacionId": "6"
+        },
+        {
+            "id": "30",
+            "descripcion": "CREACION DE TABLAS EN LA BASE DE DATOS",
+            "clasificacionId": "6"
+        },
+        {
+            "id": "31",
+            "descripcion": "REVISIÓN Y ANÁLISIS DE ESTADO DE REQUERIMIENTOS",
+            "clasificacionId": "7"
+        },
+        {
+            "id": "32",
+            "descripcion": "PLANIFICACIÓN",
+            "clasificacionId": "7"
+        },
+        {
+            "id": "33",
+            "descripcion": "ELABORACIÓN DE INFORMES",
+            "clasificacionId": "7"
+        },
+        {
+            "id": "34",
+            "descripcion": "SEGUIMIENTO A PRUEBAS Y CONSULTAS DE USUARIOS",
+            "clasificacionId": "7"
+        },
+        {
+            "id": "35",
+            "descripcion": "SEGUIMIENTO DE REUNIONES",
+            "clasificacionId": "7"
+        },
+        {
+            "id": "36",
+            "descripcion": "PARTICIPACION EN CAPACITACIÓN",
+            "clasificacionId": "8"
+        },
+        {
+            "id": "37",
+            "descripcion": "CAPACITADOR",
+            "clasificacionId": "8"
+        },
+        {
+            "id": "38",
+            "descripcion": "PREPARACIÓN DE MATERIAL",
+            "clasificacionId": "8"
+        },
+        {
+            "id": "39",
+            "descripcion": "CONFIGURACION DE SERVIDOR",
+            "clasificacionId": "9"
+        },
+        {
+            "id": "40",
+            "descripcion": "ELABORACIÓN DE DOCUMENTACIÓN",
+            "clasificacionId": "9"
+        },
+        {
+            "id": "41",
+            "descripcion": "INVESTIGACIÓN",
+            "clasificacionId": "9"
+        },
+        {
+            "id": "42",
+            "descripcion": "LECTURA DE MANUAL",
+            "clasificacionId": "9"
+        },
+        {
+            "id": "43",
+            "descripcion": "ANALISIS DE REQUISITOS",
+            "clasificacionId": "9"
+        },
+        {
+            "id": "44",
+            "descripcion": "DEMOSTRACIÓN DE AVANCES",
+            "clasificacionId": "10"
+        },
+        {
+            "id": "45",
+            "descripcion": "REUNIÓN INFORMATIVA SOBRE AVANCES DE FUNCIONALIDADES",
+            "clasificacionId": "10"
+        },
+        {
+            "id": "46",
+            "descripcion": "CONSULTAS DE USUARIOS EXTERNOS",
+            "clasificacionId": "11"
+        },
+        {
+            "id": "47",
+            "descripcion": "AJUSTES EN ENTORNO DE PRODUCCION",
+            "clasificacionId": "11"
+        },
+        {
+            "id": "48",
+            "descripcion": "CONSULTAS DE USUARIOS INTERNOS",
+            "clasificacionId": "11"
+        },
+        {
+            "id": "49",
+            "descripcion": "ACOMPAÑAMIENTO DE PRUEBAS",
+            "clasificacionId": "12"
+        }
+    ]
+}

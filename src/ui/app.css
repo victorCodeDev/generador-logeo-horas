@@ -1,0 +1,114 @@
+body{
+    background: #1f2231;
+}
+.clasificacion-contenedor {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
+}
+
+.clasificacion1 {
+    grid-area: 1 / 1 / 2 / 2;
+}
+.clasificacion2 {
+    grid-area: 1 / 2 / 2 / 3;
+}
+.clasificacion3 {
+    grid-area: 1 / 3 / 2 / 4;
+}
+.clasificacion4 {
+    grid-area: 1 / 4 / 2 / 5;
+}
+.clasificacion5 {
+    grid-area: 1 / 5 / 2 / 6;
+}
+.clasificacion6 {
+    grid-area: 1 / 6 / 2 / 7;
+}
+.clasificacion7 {
+    grid-area: 2 / 1 / 3 / 2;
+}
+.clasificacion8 {
+    grid-area: 2 / 2 / 3 / 3;
+}
+.clasificacion9 {
+    grid-area: 2 / 3 / 3 / 4;
+}
+.clasificacion10 {
+    grid-area: 2 / 4 / 3 / 5;
+}
+.clasificacion11 {
+    grid-area: 2 / 5 / 3 / 6;
+}
+.clasificacion12 {
+    grid-area: 2 / 6 / 3 / 7;
+}
+
+.tarea-contenedor {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
+}
+
+.tarea1 {
+    grid-area: 1 / 1 / 2 / 2;
+}
+.tarea2 {
+    grid-area: 1 / 2 / 2 / 3;
+}
+.tarea3 {
+    grid-area: 1 / 3 / 2 / 4;
+}
+.tarea4 {
+    grid-area: 1 / 4 / 2 / 5;
+}
+.tarea5 {
+    grid-area: 1 / 5 / 2 / 6;
+}
+.tarea6 {
+    grid-area: 1 / 6 / 2 / 7;
+}
+.tarea7 {
+    grid-area: 2 / 1 / 3 / 2;
+}
+.tarea8 {
+    grid-area: 2 / 2 / 3 / 3;
+}
+.tarea9 {
+    grid-area: 2 / 3 / 3 / 4;
+}
+.tarea10 {
+    grid-area: 2 / 4 / 3 / 5;
+}
+.tarea11 {
+    grid-area: 2 / 5 / 3 / 6;
+}
+.tarea12 {
+    grid-area: 2 / 6 / 3 / 7;
+}
+.tarea13 {
+    grid-area: 3 / 1 / 4 / 2;
+}
+.tarea14 {
+    grid-area: 3 / 2 / 4 / 3;
+}
+.tarea15 {
+    grid-area: 3 / 3 / 4 / 4;
+}
+.tarea16 {
+    grid-area: 3 / 4 / 4 / 5;
+}
+.tarea17 {
+    grid-area: 3 / 5 / 4 / 6;
+}
+.tarea18 {
+    grid-area: 3 / 6 / 4 / 7;
+}
+
+.seleccionada{
+    background: blue !important;
+}
