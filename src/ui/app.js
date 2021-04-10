@@ -26,7 +26,7 @@ function renderClasificaciones(p) {
             nombreClaseSeleccionada = 'seleccionada';
         }
         clasificacionesHtml.innerHTML += `
-        <div class="card card-body my-2 ${'clasificacion' + clasificacion.id + ' ' + nombreClaseSeleccionada}" style="background:#dee2e6">
+        <div class="clasificacion-item ${nombreClaseSeleccionada}">
             <p>${clasificacion.descripcion}</p>
         </div>
         `;
@@ -43,7 +43,7 @@ function renderTareas(p) {
         }
         if (tareas.clasificacionId == clasificacionSeleccionada) {
             tareasHtml.innerHTML += `
-            <div class="card card-body my-2 ${'tarea' + (index + 1) + ' ' + nombreClaseSeleccionada}" style="background:#dee2e6">
+            <div class="tarea-item ${nombreClaseSeleccionada}">
                 <p>${tareas.descripcion}</p>
             </div>
             `;
